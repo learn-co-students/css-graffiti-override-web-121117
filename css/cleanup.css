@@ -1,1 +1,7 @@
-/* write your override styles here */
+#wall > * {
+  display: none;
+}
+
+.parent > * {
+  display: none;
+}
